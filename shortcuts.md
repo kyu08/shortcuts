@@ -51,3 +51,7 @@ push したcommit の amend
 -> $ git commit --amend(gam)
 
 -> $ git push -f origin hogehoge
+
+add を取り消し
+
+-> git rm --chached -r fileName
